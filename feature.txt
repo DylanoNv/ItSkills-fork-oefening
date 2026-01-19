@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dit is de development versie
+=======
+dit is de feature versie
+>>>>>>> feature-branch
